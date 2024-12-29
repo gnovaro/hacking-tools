@@ -11,3 +11,6 @@ Hacking Tools
 
 ## Password Profile Generator
 - CUPP (Common User Passwords Profiler) https://github.com/Mebus/cupp
+
+## Training VM with vulnerabilities
+- OFFSEC (Proving Grounds) https://www.offsec.com/labs/
