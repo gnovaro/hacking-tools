@@ -14,3 +14,6 @@ Hacking Tools
 
 ## Training VM with vulnerabilities
 - OFFSEC (Proving Grounds) https://www.offsec.com/labs/
+
+## Upload vulnerability
+Eicar (Test file) [https://www.eicar.org/](https://www.eicar.org/download-anti-malware-testfile/)
